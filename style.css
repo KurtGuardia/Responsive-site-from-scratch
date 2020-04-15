@@ -101,7 +101,7 @@
 }
 
 .about .imgBx{
-    background: url(/img/window.jpg);
+    background: url(./img/window.jpg);
     width: 50%;
     background-size: cover;
     background-position: center;
@@ -234,14 +234,14 @@
 }
 
 .imgBx2{
-    background: url(/img/bg2.jpg);
+    background: url(./img/bg2.jpg);
     background-size: cover;
     background-position: center;
     width: 50%;
 }
 
 .redbg{
-    background: url(/img/red.jpg) !important;
+    background: url(./img/red.jpg) !important;
     background-size: cover;
     background-position: center;
 }
@@ -289,9 +289,10 @@
 .form .inputBx input[type="submit"]{
     width: 150px;
     background: #fff;
-    color: #111;
+    color: #162c3b;
     cursor: pointer;
     font-weight: 400;
+    border-radius: 4px;
 }
 
 .footer{
